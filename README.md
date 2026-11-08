@@ -67,3 +67,5 @@ About pull request          : https://docs.github.com/en/github/collaborating-wi
 
 **For more help, please create an issue.**
 
+ 
+Based on [django-react-ecommerce](https://github.com/Rashik4567/django-react-ecommerce) by Rashik4567 (GPL-3.0). 
